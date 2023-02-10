@@ -1,4 +1,4 @@
-
+# Forked from https://github.com/mcahny/object_localization_network
 # Learning Open-World Object Proposals without Learning to Classify
 
 ## Pytorch implementation for "Learning Open-World Object Proposals without Learning to Classify" ([RA-L and ICRA 2022](https://arxiv.org/abs/2108.06753)) <br/>
